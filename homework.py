@@ -1,7 +1,7 @@
 # # # capitalize() -
 # # laptop = "My laptop is upgrade"
 # # laptop_1 = laptop.capitalize()
-# # print (laptop_1)
+print (laptop_1)
 # #
 # # market = "Sales are booming in the market"
 # # market = market.capitalize()
